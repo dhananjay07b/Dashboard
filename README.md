@@ -28,7 +28,7 @@ git clone https://github.com/dhananjay07b/Dashboard.git
 Install the dependencies:
 
 ```bash
-cd Task-Management
+cd Dashboard
 npm install
 ```
 
