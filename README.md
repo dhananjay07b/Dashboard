@@ -7,8 +7,9 @@ A basic structure of a Dashboard built with React
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
 - [Screenshots](#screenshots)
+- [Contributing](#contributing)
+
 
 ## Introduction
 It is a simple Dashboard design for front-end. Comes with both 'Light' and 'Dark' mode. The application is built using React, Material UI, with Nivo, which provides a rich set of dataviz components, built on top of D3 and React.
