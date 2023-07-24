@@ -8,6 +8,7 @@ A basic structure of a Dashboard built with React
 - [Features](#features)
 - [Installation and Usage](#installation-and-usage)
 - [Contributing](#contributing)
+- [Screenshots](#screenshots)
 
 ## Introduction
 It is a simple Dashboard design for front-end. Comes with both 'Light' and 'Dark' mode. The application is built using React, Material UI, with Nivo, which provides a rich set of dataviz components, built on top of D3 and React.
@@ -28,7 +29,7 @@ git clone https://github.com/dhananjay07b/Dashboard.git
 Install the dependencies:
 
 ```bash
-cd Dashboard
+cd Task-Management
 npm install
 ```
 
@@ -47,6 +48,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Use the interface to manage your tasks. Tasks will be persisted in the browser's local storage.
 
 You can start editing the page by modifying `./src/App.js`. The page auto-updates as you edit the file.
+
+## Screenshots
+
+### Dark Mode:
+<p align="center">
+    <img src="./public/assets/ss1.png" alt="dark" style="margin:4px;">
+</p>
+
+### Light Mode:
+<p align="center">
+    <img src="./public/assets/ss2.png" alt="light" style="margin:4px;">
+</p>
+
+### Toggle Sidebar:
+<p align="center">
+    <img src="/public/assets/ss3.png" alt="toggle" style="margin:4px;">
+</p>
+
 
 ## Contributing
 
